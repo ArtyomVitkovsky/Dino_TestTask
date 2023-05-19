@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Modules/Main/Scenes/BootstrapScene.unity
+    guid: e0b6dce34126d614487fb21cfa5255fb
+  - enabled: 1
+    path: Assets/Modules/HitMasterGame/Scenes/GameScene.unity
+    guid: 75bae32e0449c7343b30ee0f377b48d8
   m_configObjects: {}
